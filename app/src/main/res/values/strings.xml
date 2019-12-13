@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Daily Horoscope</string>
+    <string name="welcome">Sign up to know your Horoscope</string>
+    <string name="signup">SignUp</string>
+    <string name="feedbacktitle">Enter the information below to and Submit</string>
+    <string name="submit">Submit</string>
+    <string name="enterDate">Birthday (MMDD)</string>
+    <string name="name">Name</string>
+    <string name="enterName">Enter Your Name</string>
+    <string name="loading">Loading...</string>
+    <string name="hi">Hi </string>
+    <string name="userName">User</string>
+    <string name="welcome_head">Daily Horoscope Signup</string>
+</resources>
